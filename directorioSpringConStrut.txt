@@ -1,0 +1,19 @@
+tabla kardex
+create table kardex(
+num char(6) not null,
+fec varchar(20) not null, 
+doc varchar(20) not null, 
+ope varchar(20) not null, 
+art varchar(20) not null, 
+ing int not null, 
+sal int not null, 
+sto int not null, 
+primary key(num)
+)
+
+directorio que permite la integracion de spring con strut
+org.springframework.web.struts.DelegatingTilesRequestProcessor
+
+org.springframework.web.struts.DelegatingTilesRequestProcessor
+org.springframework.web.struts.DelegatingTilesRequestProcessor
+
